@@ -10,3 +10,4 @@ use only let
 variable that is not defined 
 
 */
+//alert("hello") we are using node js not browser due to which we cant run it
