@@ -25,3 +25,7 @@ console.log(null >=0)
 console.log(0===0)
 //=== it checks if the two data are of same type and value
 //
+let s="hello"
+let p="chetan"
+let s3=s+p
+console.log(s3)
