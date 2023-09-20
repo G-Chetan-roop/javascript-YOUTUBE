@@ -19,4 +19,5 @@ let obj={
 const myfun=function(){
 console.log("hello world")
 }
+console.log(typeof myfun);
 // use typeof to find out the datatype of a variable
