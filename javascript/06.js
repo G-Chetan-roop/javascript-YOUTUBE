@@ -14,4 +14,5 @@ userTwo.email="fnifn"
 console.log(user.email);
 console.log(userTwo.email)
 //stack --> provides a copy of the variables declared
-// heap --> provides a reference of the variables and the variables ca be changed using a reference
+// heap --> provides a reference of the variables and the variables get changed
+ /*be changed using a reference*/
