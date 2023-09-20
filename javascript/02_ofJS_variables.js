@@ -3,7 +3,8 @@ const company="MICrosoft"
 let name="chetan"
 var accpass="12345"
 accCity="JAIPUR"
-console.table([company,name, accpass,accCity])
+let  accstate
+console.table([company,name, accpass,accCity,accstate])
 /*
 var if used it cant keep track of scope
 use only let
